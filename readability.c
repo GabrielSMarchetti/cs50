@@ -1,3 +1,4 @@
+//Determinar, através de um algoritmo, a dificuldade de ler certa sentença
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
