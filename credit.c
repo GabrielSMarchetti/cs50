@@ -1,3 +1,4 @@
+//Determinar a validez de um cartão de crédito e sua bandeira
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
