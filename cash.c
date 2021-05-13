@@ -1,3 +1,4 @@
+//Calcular a quantidades de moedas totais necessárias para fornecer um certo valor de troco
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
